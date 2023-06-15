@@ -9,8 +9,7 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 app.use(express.json())
 
-// rittik5
-// YHkMAd0R3DwvkwT6
+
 
 dbConnect();
 client
